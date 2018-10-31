@@ -1,0 +1,17 @@
+C:\Users\PARESH\documents\visual studio 2017\Projects\RandomNumberDistribution\RandomNumberUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\PARESH\documents\visual studio 2017\Projects\RandomNumberDistribution\RandomNumberUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\PARESH\documents\visual studio 2017\Projects\RandomNumberDistribution\RandomNumberUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\PARESH\documents\visual studio 2017\Projects\RandomNumberDistribution\RandomNumberUnitTest\bin\Debug\RandomNumberUnitTest.dll
+C:\Users\PARESH\documents\visual studio 2017\Projects\RandomNumberDistribution\RandomNumberUnitTest\bin\Debug\RandomNumberUnitTest.pdb
+C:\Users\PARESH\documents\visual studio 2017\Projects\RandomNumberDistribution\RandomNumberUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\PARESH\documents\visual studio 2017\Projects\RandomNumberDistribution\RandomNumberUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\PARESH\documents\visual studio 2017\Projects\RandomNumberDistribution\RandomNumberUnitTest\bin\Debug\RandomNumberDistribution.exe
+C:\Users\PARESH\documents\visual studio 2017\Projects\RandomNumberDistribution\RandomNumberUnitTest\bin\Debug\RandomNumberDistribution.pdb
+C:\Users\PARESH\documents\visual studio 2017\Projects\RandomNumberDistribution\RandomNumberUnitTest\bin\Debug\RandomNumberDistribution.exe.config
+C:\Users\PARESH\documents\visual studio 2017\Projects\RandomNumberDistribution\RandomNumberUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\PARESH\documents\visual studio 2017\Projects\RandomNumberDistribution\RandomNumberUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\PARESH\documents\visual studio 2017\Projects\RandomNumberDistribution\RandomNumberUnitTest\obj\Debug\RandomNumberUnitTest.csprojAssemblyReference.cache
+C:\Users\PARESH\documents\visual studio 2017\Projects\RandomNumberDistribution\RandomNumberUnitTest\obj\Debug\RandomNumberUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\PARESH\documents\visual studio 2017\Projects\RandomNumberDistribution\RandomNumberUnitTest\obj\Debug\RandomNumberUnitTest.csproj.CopyComplete
+C:\Users\PARESH\documents\visual studio 2017\Projects\RandomNumberDistribution\RandomNumberUnitTest\obj\Debug\RandomNumberUnitTest.dll
+C:\Users\PARESH\documents\visual studio 2017\Projects\RandomNumberDistribution\RandomNumberUnitTest\obj\Debug\RandomNumberUnitTest.pdb
